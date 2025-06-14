@@ -63,7 +63,7 @@ export default function Home() {
             transition={{ duration: 0.5 }}
             className="text-xl font-bold"
           >
-            <span className="text-purple-400">D</span>arshit
+            <span className="text-purple-400">DD</span>arshit
           </motion.div>
 
           <motion.div
